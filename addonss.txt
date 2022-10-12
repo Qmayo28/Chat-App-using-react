@@ -1,0 +1,19 @@
+git clone --single-branch -b "react-mini" https://github.com/safak/youtube2022.git .
+
+npm install
+npm start
+
+npm install sass
+
+
+member_relations@sss.gov.ph
+
+Subject: SSS NUMBER VERIFICATION
+
+
+npm install firebase
+npm install react-router-dom
+
+npm install uuid
+
+npm run build
